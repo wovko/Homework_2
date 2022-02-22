@@ -1,0 +1,500 @@
+   55  cd wshop_0
+   56  cd lesson_0
+   57  rm -f text_3.txt
+   58  ls -la
+   59  cd ..
+   60  cd ..
+   61  rm -r wshop_0
+   62  ls -la
+   63  pwd
+   64  ls
+   65  ls -la
+   66  cal
+   67  sudo apt install ncal
+   68  data
+   69  date
+   70  echo $PATH
+   71  wich date
+   72  which date
+   73  exit
+   74  date
+   75  date -u
+   76  clear
+   77  man 1 which
+   78  man which
+   79  man sol
+   80  which cal date ls
+   81  which -a date
+   82  man -k "list"
+   83  ls -a
+   84  ls --all
+   85  ls -l -a
+   86  clear
+   87  ls -al
+   88  ls -la
+   89  ls -lh
+   90  ls --human-readeble
+   91  ls --human-readable
+   92  cat
+   93  date
+   94  date gfhjf
+   95  cd
+   96  ls -la
+   97  cd ..
+   98  cd ..
+   99  cd ..
+  100  cd d
+  101  cd Робота
+  102  ді -дф
+  103  ls -la
+  104  cd IT
+  105  ls -ls
+  106  mkdir Practise
+  107  cd Practise
+  108  cat 1> output.txt
+  109  ls -la
+  110  vim output.txt
+  111  ls -jngefdk
+  112  ls -jngefdk 1>> output.txt
+  113  ls -jngefdk 2>> output.txt
+  114  vim output.txt
+  115  ls -jngefdk 2>> output.txt
+  116  ls -jngefdk 2>> output.txt
+  117  ls -jngefdk 2>> output.txt
+  118  vim output.txt
+  119  cat 1> output.txt 2> eror.txt
+  120  cat -gfh 1> output.txt 2> eror.txt
+  121  vim eror.txt
+  122  cat 1> input.txt
+  123  vim input.txt
+  124  cat 1> input.txt
+  125  clear
+  126  cat 0< input.txt
+  127  cat < input.txt > startup.txt
+  128  vim startup.txt
+  129  tty
+  130  quit
+  131  history
+  132  exit
+  133  ls -la
+  134  cd ..
+  135  cd ..
+  136  cd ..
+  137  cd d
+  138  cd Робота
+  139  ді -дф
+  140  ls -la
+  141  cd IT
+  142  ls -la
+  143  cd Practise
+  144  ls -la
+  145  mkdir group_27
+  146  cd group_27
+  147  mkdir f1 f2 f3
+  148  touch tt.txt
+  149  ls
+  150  ls -la
+  151  ls -a
+  152  ls -l
+  153  cd ..
+  154  ls -r
+  155  ls -r/la
+  156  ls -r
+  157  ls -R
+  158  ls -R -la
+  159  ls -lat
+  160  cd group_27
+  161  ls
+  162  cat tt.txt
+  163  cat tt.txt
+  164  cat > tt2.txt
+  165  cat > ttn1.txt
+  166  cat > ttn2.txt
+  167  cat ttn1.txt ttn2.txt
+  168  cat -b ttn2.txt
+  169  cat -n ttn2.txt
+  170  cat -n ttn2
+  171  history > hist1.txt
+  172  cat ttn2.txt
+  173  cat >> ttn2.txt
+  174  cat ttn2.txt
+  175  cat -s ttn2.txt
+  176  cat -b ttn2.txt
+  177  cat -n ttn2.txt
+  178  cat -ns ttn2.txt
+  179  cat ttn2.txt | less
+  180  cat ttn2.txt
+  181  cat ttn1.txt
+  182  cat ttn3.txt
+  183  cat ttn1.txt >> ttn2.txt
+  184  cat ttn2.txt
+  185  cat ttn1.txt > ttn2.txt
+  186  cat ttn2.txt
+  187  cat ttn2.txt | less
+  188  cat ttn2.txt | sort
+  189  cat > ttn3.txt
+  190  cat ttn3.txt | sort
+  191  cat >> ttn3.txt
+  192  cat ttn3.txt
+  193  cat ttn3.txt | sort
+  194  cat ttn1.txt
+  195  cat > ttn4.txt
+  196  cat ttn1.txt ttn3.txt | > ttn4.txt
+  197  cat ttn4.txt
+  198  cat ttn1.txt ttn3.txt > ttn4.txt
+  199  cat ttn4.txt
+  200  cat ttn1.txt ttn3.txt | sort > ttn4.txt
+  201  cat ttn4.txt
+  202  ls
+  203  cd f1
+  204  cat > xx.txt
+  205  cat > yy.txt
+  206  cd ..
+  207  cat > f2/rrr.txt
+  208  cd
+  209  pwd
+  210  cd f2
+  211  ls
+  212  cd group_27
+  213  ls
+  214  cd ..
+  215  cd ..
+  216  cd ..
+  217  cd ..
+  218  cd d
+  219  cd Робота
+  220  ls
+  221  cd IT
+  222  ls
+  223  cd Practise
+  224  ls
+  225  cd group_27
+  226  ls
+  227  cd f2
+  228  ls
+  229  cat rrr.txt
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd f3
+  234  cat > ../f2/kkk.txt
+  235  cd ..
+  236  cd f2
+  237  ls
+  238  cat kkk.txt
+  239  cd ..
+  240  find . -name ooo*
+  241  find . -name rrr*
+  242  cd ..
+  243  ls
+  244  cd group_27
+  245  ls
+  246  grep -r 11 *
+  247  grep rrr *
+  248  grep -r rrr 
+  249  grep -r rrr group_27
+  250  cd ..
+  251  grep -r rrr group_27
+  252  grep -r rrr
+  253  grep rrr
+  254  grep 111 group_27/*
+  255  grep 111 group_27/{f1,f2,f3}/*
+  256  grep 11 group_27/{f1,f2,f3}/*
+  257  grep 123 group_27/*
+  258  grep 123 group_27/{f1,f2}/*
+  259  grep 123 group_27/{f1,f2}/
+  260  pwd
+  261  cd ..
+  262  cd ..
+  263  cd ..
+  264  cd d
+  265  cd Робота
+  266  св IT
+  267  cd IT
+  268  ls
+  269  cd Practise
+  270  ls
+  271  cd group_27
+  272  ls
+  273  pwd
+  274  pwd
+  275  history
+  276  git config --global user.name
+  277  ls
+  278  cd ..
+  279  cd ..
+  280  cd ..
+  281  cd d
+  282  cd work
+  283  cd IT
+  284  ls
+  285  QA_Ksendzov
+  286  cd QA_Ksendzov
+  287  cd GitHub
+  288  ls
+  289  cd GH_clone_0
+  290  git clone https://github.com/wovko/course-QA.git
+  291  ls
+  292  cd course-QA
+  293  ls
+  294  git status
+  295  start .
+  296  vim user.txt
+  297  ls -la
+  298  git status
+  299  vim pay1.txt
+  300  git status
+  301  git add pay1.txt
+  302  git status
+  303  cat > pay2.txt
+  304  git status
+  305  git add .
+  306  git status
+  307  vim 11.json
+  308  git add .
+  309  git status
+  310  vim 11.json
+  311  git status
+  312  git add .
+  313  git status
+  314  git commit -m "add four files"
+  315  git status
+  316  git push
+  317  git config --global user.name "wovko"
+  318  git config --global user.email "wovko.ok@gmail.com"
+  319  git config --global user.email
+  320  git push
+  321  vim 11.json
+  322  git commit -am "change file 11.json"
+  323  git push
+  324  vim 11.json
+  325  git commit -am "change file 11.json"
+  326  git push
+  327  ls
+  328  git clone https://github.com/wovko/course-QA.git
+  329  ls -la
+  330  git
+  331  cd ..
+  332  cd ..
+  333  cd ..
+  334  cd D
+  335  cd work
+  336  ls
+  337  cd IT
+  338  ls
+  339  cd QA_Ksendzov
+  340  ls
+  341  cd GitHub
+  342  ls
+  343  cd GH_clone_0
+  344  ls
+  345  cd course-QA
+  346  git branch
+  347  git branch ali_pay
+  348  git branch
+  349  git checkout ali_pay
+  350  git checkout main
+  351  git checkout -b samsung_pay
+  352  git branch
+  353  ls -la
+  354  cat > s_pay1.txt
+  355  ls -la
+  356  git add
+  357  git add .
+  358  git commit -m "s_pay.txt"
+  359  ls -la
+  360  clear
+  361  cat s_pay1.txt
+  362  git checkout main
+  363  git merge samsung_pay
+  364  cat s_pay1.txt
+  365  vim s_pay1.txt
+  366  cat s_pay1.txt
+  367  git commit -am "s_pay"
+  368  git checkout samsung_pay
+  369  cat s_pay1.txt
+  370  vim s_pay1.txt
+  371  git commit -am "s_pay_999"
+  372  git checkout main
+  373  git merge samsung_pay
+  374  vim s_pay1.txt
+  375  cat s_pay1.txt
+  376  git commit -am "s_pay conflict"
+  377  git chekout ali_pay
+  378  ls
+  379  git branch
+  380  git checkout ali_pay
+  381  git push -u origin ali_pay
+  382  ls -la
+  383  tty
+  384  cat
+  385  man cat
+  386  data -1
+  387  data
+  388  date
+  389  date -1
+  390  date
+  391  clear
+  392  cd ..
+  393  cd ..
+  394  cd ..
+  395  cd D
+  396  cd work
+  397  cd IT
+  398  cd Practise
+  399  ls
+  400  cat 1> output.txt
+  401  cat > output.txt
+  402  clear
+  403  cat > output.txt
+  404  cat 1>> output.txt
+  405  ls -a,vdkb
+  406  ls -a,vdkb 1>> output.txt
+  407  ls -a,vdkb 2>> error.txt
+  408  ls -a,vdkb 2>> error.txt
+  409  ls -a,vdkb 2>> error.txt
+  410  ls -a,vdkb 2>> error.txt
+  411  clear
+  412  cat 1> output.txt 2> error.txt
+  413  cat -jvhhv/lm 1> output.txt 2> error.txt
+  414  cat 1> input.txt
+  415  clear
+  416  cat 0< input.txt
+  417  cat < input.txt > qastartup.txt
+  418  cat < qastartup.txt [200~/dev/pty1
+  419  cat < qastartup.txt > /dev/pty1
+  420  date
+  421  date > fullDate.txt
+  422  cut < fullDate.txt --delimiter=" " --fields=1,3
+  423  date | cut --delimiter=" " --fields=1,3
+  424  date | cut --delimiter=" " --fields=1,3 > cutdate.txt
+  425  date | cut --delimiter=" " > cutdate.txt --fields=1,2
+  426  date > qwerty.txt | cut --delimiter=" " > cutdate.txt --fields=1,2,3
+  427  date > qwerty.txt | cut --delimiter=" " --fields=1,2,3
+  428  date | tee qwerty.txt | cut --delimiter=" " --fields=1,2,3
+  429  date > date.txt
+  430  date > date.txt
+  431  rm date.txt
+  432  date > date.txt
+  433  cat list.txt
+  434  cat list.txt | rm
+  435  rm | cat list.txt
+  436  cat list.txt | xargs rm
+  437  python3 --version
+  438  python3
+  439  python3
+  440  cd ..
+  441  cd ..
+  442  cd ..
+  443  cd D
+  444  cd Work
+  445  cd IT
+  446  ls
+  447  cd Practice
+  448  cd Practise
+  449  ls
+  450  cd group_27
+  451  ls
+  452  cd ..
+  453  cd ..
+  454  ls
+  455  cd QA_Ksendzov
+  456  ls
+  457  cd GitHub
+  458  ls
+  459  cd CH_clone_0
+  460  cd GH_clone_0
+  461  ls
+  462  cd course-QA
+  463  cd main
+  464  git branch main
+  465  clear
+  466  git branch
+  467  git checkout main
+  468  ls -la
+  469  ls -la
+  470  git commit
+  471  git push
+  472  git merge ali_pay
+  473  git checkout ali_pay
+  474  ls -la
+  475  git checkout main
+  476  ls -la
+  477  git merge ali_pay
+  478  git checkout ali_pay
+  479  ls -la
+  480  git push
+  481  ls
+  482  git checkout main
+  483  ls
+  484  git checkout ali_pay
+  485  git merge main
+  486  ls
+  487  git branch
+  488  git checkout samsung_pay
+  489  cd ..
+  490  cd ..
+  491  echo "# Homework_2" >> README.md
+  492  git init
+  493  git add README.md
+  494  git branch Postman
+  495  git branch
+  496  git branch postman
+  497  git checkout -b Postman
+  498  git checkout main
+  499  git branch
+  500  git branch
+  501  git status
+  502  cd ..
+  503  cd ..
+  504  cd ..
+  505  cd D
+  506  cd work
+  507  cd IT
+  508  ls
+  509  cd QA_Ksendzov
+  510  ls
+  511  cd GitHub
+  512  ls
+  513  cd ..
+  514  ls
+  515  cd GitHub
+  516  ls
+  517  cd GH_clone_1
+  518  git status
+  519  git branch main
+  520  cd ..
+  521  ls
+  522  cd GH_clone_1
+  523  echo "# Homework_2" >> README.md
+  524  git init
+  525  git branch
+  526  cat > text_1.txt
+  527  ls
+  528  git branch Postman
+  529  ls
+  530  ls -la
+  531  cd ..
+  532  ls
+  533  cd GH_clone_0
+  534  ls
+  535  cd course_QA
+  536  cd course-QA
+  537  git checkout main
+  538  ls -la
+  539  cd ..
+  540  cd ..
+  541  cd GH_clone_1
+  542  git branch Postman
+  543  cd ..
+  544  cd GH_clone_1
+  545  git clone https://github.com/wovko/Homework_2.git
+  546  ls
+  547  cd Homework_2
+  548  cat > text1.txt
+  549  git branch Postman
+  550  git commit
+  551  git branch Postman
+  552  git branch
+  553  history
+  554  history > history.txt
